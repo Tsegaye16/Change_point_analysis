@@ -1,0 +1,31 @@
+2025-02-21 15:01:39,800 - logger - INFO - Directory checked/created: ../data/
+2025-02-21 15:01:39,800 - logger - INFO - Starting download from Google Drive.
+2025-02-21 15:01:40,495 - logger - ERROR - Error loading data: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?export=download&id=data
+
+but Gdown can't. Please check connections and permissions.
+2025-02-21 15:04:43,810 - logger - INFO - Directory checked/created: ../data/
+2025-02-21 15:04:43,810 - logger - INFO - Starting download from Google Drive.
+2025-02-21 15:04:44,228 - logger - ERROR - Error loading data: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?export=download&id=folders
+
+but Gdown can't. Please check connections and permissions.
+2025-02-21 15:07:53,264 - logger - ERROR - Error loading data: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'https:'
+2025-02-21 15:08:32,385 - logger - ERROR - Error loading data: [WinError 183] Cannot create a file when that file already exists: '../data/BrentOilPrices.csv'
+2025-02-21 15:08:34,968 - logger - ERROR - Error loading data: [WinError 183] Cannot create a file when that file already exists: '../data/BrentOilPrices.csv'
+2025-02-21 15:08:34,968 - logger - ERROR - Error loading data: [WinError 183] Cannot create a file when that file already exists: '../data/BrentOilPrices.csv'
+2025-02-21 15:17:11,463 - logger - INFO - Data loaded into DataFrame successfully.

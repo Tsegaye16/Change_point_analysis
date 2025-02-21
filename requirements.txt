@@ -1,0 +1,7 @@
+IPython
+logging
+matplotlib
+os
+pandas
+re
+seaborn
