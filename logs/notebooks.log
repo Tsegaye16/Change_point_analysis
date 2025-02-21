@@ -29,3 +29,14 @@ but Gdown can't. Please check connections and permissions.
 2025-02-21 15:08:34,968 - logger - ERROR - Error loading data: [WinError 183] Cannot create a file when that file already exists: '../data/BrentOilPrices.csv'
 2025-02-21 15:08:34,968 - logger - ERROR - Error loading data: [WinError 183] Cannot create a file when that file already exists: '../data/BrentOilPrices.csv'
 2025-02-21 15:17:11,463 - logger - INFO - Data loaded into DataFrame successfully.
+2025-02-21 15:19:41,588 - logger - INFO - DataFrame dimensions: (9011, 2)
+2025-02-21 15:19:41,590 - logger - INFO - Displayed data types for each column.
+2025-02-21 15:19:41,594 - logger - INFO - No missing values detected.
+2025-02-21 15:19:41,624 - logger - INFO - Duplicate rows found: 0
+2025-02-21 15:27:53,879 - logger - INFO - DataVisualizer initialized.
+2025-02-21 15:28:16,844 - logger - INFO - Box plot of Brent Oil Prices displayed successfully.
+2025-02-21 15:29:28,159 - logger - INFO - Price distribution plot displayed successfully.
+2025-02-21 15:30:27,328 - logger - INFO - Price over time plot displayed successfully.
+2025-02-21 15:30:58,226 - logger - INFO - Yearly average price plot displayed successfully.
+2025-02-21 15:31:41,666 - logger - INFO - 30-day rolling volatility plot displayed successfully.
+2025-02-21 15:33:10,826 - logger - INFO - 7-day rolling volatility plot displayed successfully.
