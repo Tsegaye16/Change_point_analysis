@@ -1,0 +1,12 @@
+2025-02-23 23:33:34,730 - logger - INFO - Data loaded into DataFrame successfully.
+2025-02-23 23:33:34,806 - logger - INFO - DataFrame dimensions: (9011, 2)
+2025-02-23 23:33:34,808 - logger - INFO - Displayed data types for each column.
+2025-02-23 23:33:34,809 - logger - INFO - No missing values detected.
+2025-02-23 23:33:34,833 - logger - INFO - Duplicate rows found: 0
+2025-02-23 23:33:34,862 - logger - INFO - DataVisualizer initialized.
+2025-02-23 23:33:35,407 - logger - INFO - Box plot of Brent Oil Prices displayed successfully.
+2025-02-23 23:33:35,879 - logger - INFO - Price distribution plot displayed successfully.
+2025-02-23 23:33:36,284 - logger - INFO - Price over time plot displayed successfully.
+2025-02-23 23:33:36,951 - logger - INFO - Yearly average price plot displayed successfully.
+2025-02-23 23:33:37,368 - logger - INFO - 30-day rolling volatility plot displayed successfully.
+2025-02-23 23:33:37,713 - logger - INFO - 7-day rolling volatility plot displayed successfully.
